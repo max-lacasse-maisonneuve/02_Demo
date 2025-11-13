@@ -14,7 +14,6 @@
         "eslint": "^9.39.1",
         "globals": "^16.5.0",
         "mocha": "^11.7.5",
-        "vite": "^5.0.8",
         "vite-plugin-eslint": "^1.8.1"
     },
     "dependencies": {
@@ -29,6 +28,7 @@
         "sortablejs": "^1.15.6",
         "tailwindcss": "^4.1.16",
         "three": "^0.181.1",
+        "vite": "^7.2.2",
         "vite-plugin-imagemin": "^0.6.1",
         "vite-plugin-vercel": "^9.0.8"
     }
