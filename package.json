@@ -26,5 +26,7 @@
         "tailwindcss": "^4.1.16",
         "three": "^0.181.1",
         "vite-plugin-eslint": "^1.8.1"
-    }
+    },"overrides": {
+  "rollup": "4.21.0"
+}
 }
